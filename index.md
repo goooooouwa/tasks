@@ -27,3 +27,18 @@
 | 任务卡：《[Express 基础 - 构建restful风格的服务API](task128.md)》 |
 | 任务卡：《[练习 - 学生成绩单 Web版](https://github.com/tws-practice/student-score-sheet-web-version)》              |
 | 任务卡：《[练习 - 学生成绩单 API版](https://github.com/tws-practice/student-score-sheet-api-version)》              |
+
+#### Phase-1-intro
+![phase-1-intro](assets/images/phase-1-intro.png)
+#### Phase-1-tasks
+![phase-1-tasks](assets/images/phase-1-tasks.png)
+
+#### Phase-2-intro
+![phase-2-intro](assets/images/phase-2-intro.png)
+#### Phase-2-tasks
+![phase-2-tasks](assets/images/phase-2-tasks.png)
+
+#### Phase-3-intro
+![phase-3-intro](assets/images/phase-3-intro.png)
+#### Phase-3-tasks
+![phase-3-tasks](assets/images/phase-3-tasks.png)
